@@ -1,0 +1,211 @@
+﻿dam_id,dam_name,state,name_storage,namo_storage,current_storage,fill_percent,log_date
+1,Aguamilpa,Nayarit,4047.31,2850.71,1051.84,0.37,10/05/2021
+2,Laguna de Catemaco,Veracruz,133.22,88.26,10.28,0.12,10/05/2021
+3,Angostura,Chiapas,17356.9,13169.6,7972.76,0.61,10/05/2021
+4,Infiernillo,Michoacán,11880.8,4843.75,1793.49,0.37,10/05/2021
+5,La Yesca,Jalisco,1491.99,1392.02,470.4,0.34,10/05/2021
+6,El Caracol,Guerrero,823.39,697.46,424.59,0.61,10/05/2021
+7,Zimapán,Hidalgo,769,699,505.95,0.72,10/05/2021
+8,La Villita,Michoacán,362.31,221.29,194.67,0.88,10/05/2021
+9,Apulco o Mazatepec,Puebla,13.62,12.54,5.15,0.41,10/05/2021
+10,El Cajón,Nayarit,1446.1,1335.13,839.07,0.63,10/05/2021
+11,Huites,Sinaloa,4069.09,2703.99,9.38,0,10/05/2021
+12,Santa Rosa,Jalisco,211.13,195.63,50.61,0.26,10/05/2021
+13,Chicoasén,Chiapas,259.56,205.98,184.08,0.89,10/05/2021
+14,Malpaso Raudales de Malpaso,Chiapas,11000.6,9317.39,6260.3,0.67,10/05/2021
+15,El Novillo,Sonora,3312.48,2633.58,820.31,0.31,10/05/2021
+16,Temascal,Oaxaca,7884.64,6898.19,2598.03,0.38,10/05/2021
+17,Peñitas,Chiapas,397.12,215.04,172.27,0.8,10/05/2021
+18,Abelardo L. Rodríguez,Aguascalientes,18.82,16,4.46,0.28,10/05/2021
+19,Abelardo L. Rodríguez o Tijuana,Baja California,121.39,76.9,14.76,0.19,10/05/2021
+20,Hermosillo,Sonora,284.47,219.52,0,0,10/05/2021
+21,Guadalupe,Chihuahua,102.89,79.35,24.88,0.31,10/05/2021
+22,Vaqueros,Jalisco,12.21,7.36,0.9,0.12,10/05/2021
+23,El Humaya o El Varejonal,Sinaloa,4034.52,3086.61,214.13,0.07,10/05/2021
+24,Mocuzari,Sonora,1822.14,950.25,12.19,0.01,10/05/2021
+25,Mata De Pinos,Michoacán,18.75,15.68,2.59,0.17,10/05/2021
+26,Dique 10 Son.,Sonora,41.16,37.58,33.13,0.88,10/05/2021
+27,Las Garzas,Guerrero,133.03,102.5,35.4,0.35,10/05/2021
+28,Wilson,Michoacán,28.31,25.34,2.17,0.09,10/05/2021
+29,Las Piedras,Jalisco,146.89,124.75,66.44,0.53,10/05/2021
+30,Canoas,Durango,57.88,45,34.76,0.77,10/05/2021
+31,Tomatlán o El Tule,Jalisco,707.62,442.76,265.64,0.6,10/05/2021
+32,Cañada del Lobo S.L.P.,San Luis Potosí,2.16,1.24,0.27,0.22,10/05/2021
+33,Chihuahua,Chihuahua,35.63,23.38,11.49,0.49,10/05/2021
+34,Chila,Jalisco,1,0.76,0.59,0.77,10/05/2021
+35,San José de Gracia,Aguascalientes,5.04,4.1,3.57,0.87,10/05/2021
+36,Cointzio,Michoacán,79.23,50.84,35.88,0.71,10/05/2021
+37,Hidalgo,Querétaro,76.46,66.08,1.43,0.02,10/05/2021
+38,Chilatan,Michoacán,807.15,590.03,248.01,0.42,10/05/2021
+39,Copándaro De Corrales,Michoacán,9.72,2.75,0,0,10/05/2021
+40,Corrinchis,Jalisco,29,20,3.98,0.2,10/05/2021
+41,Santa Teresa,Sonora,66.33,41.47,1.36,0.03,10/05/2021
+42,El Cuchillo,Nuevo León,1784.29,1123.14,589.99,0.53,10/05/2021
+43,Los Gigantes,Jalisco,8.85,7.5,4.33,0.58,10/05/2021
+44,Danxho,Estado de México,32.67,31.05,3.76,0.12,10/05/2021
+45,De Gonzalo,Michoacán,10,8.84,5.38,0.61,10/05/2021
+46,Derivadora Las Blancas,Tamaulipas,133.43,83.78,13.92,0.17,10/05/2021
+47,Der. Potrerillos,Aguascalientes,2.1,2.04,1.19,0.58,10/05/2021
+48,Los Arcos,Querétaro,8.04,5.79,0.94,0.16,10/05/2021
+49,El Bosque,Michoacán,220.1,202.4,69.34,0.34,10/05/2021
+50,El Carrizo,Baja California,44.59,40.87,23.99,0.59,10/05/2021
+51,El Cazadero,Zacatecas,44.68,22.18,11.01,0.5,10/05/2021
+52,El Centenario,Coahuila,25.71,24.59,13.92,0.57,10/05/2021
+53,El Centenario,Querétaro,14.18,9.78,0.38,0.04,10/05/2021
+54,El Chique,Zacatecas,192.57,138.91,77.88,0.56,10/05/2021
+55,El Cuarenta,Jalisco,38.96,30.63,8.8,0.29,10/05/2021
+56,El Estribón,Jalisco,7.74,6.38,5.05,0.79,10/05/2021
+57,El Gallo,Guerrero,545.97,400.04,260.73,0.65,10/05/2021
+58,El Granero,Chihuahua,824.76,284.38,112.22,0.39,10/05/2021
+59,Molinitos,Estado de México,8.7,7.69,0.94,0.12,10/05/2021
+60,Piedra Labrada,Veracruz,8.13,2.5,2.05,0.82,10/05/2021
+61,El Niagara,Aguascalientes,31.7,16.19,15.12,0.93,10/05/2021
+62,El Palote,Guanajuato,17.16,9.64,3.28,0.34,10/05/2021
+63,El Potosino,San Luis Potosí,5.2,3.29,0.72,0.22,10/05/2021
+64,El Rejón,Chihuahua,7.76,6.53,3.28,0.5,10/05/2021
+65,El Rodeo,Morelos,33.14,26.98,1.71,0.06,10/05/2021
+66,El Salto,Jalisco,118.54,85,73.06,0.86,10/05/2021
+67,El Tigre,Durango,18.56,14,3.89,0.28,10/05/2021
+68,El Tintero,Chihuahua,216.7,125.08,21.13,0.17,10/05/2021
+69,Ensenada,Baja California,6.34,2.73,0.82,0.3,10/05/2021
+70,Endó,Hidalgo,208.65,182.9,87.21,0.48,10/05/2021
+71,Las Ánimas,Tamaulipas,654.37,563.44,145.89,0.26,10/05/2021
+72,Isla de las Aves o El Salto,Estado de México,12.32,9.93,1.41,0.14,10/05/2021
+73,El Bosque,Durango,96.57,73.26,63.97,0.87,10/05/2021
+74,Las Tortolas,Durango,383.16,309.24,192.93,0.62,10/05/2021
+75,Trujillo,Zacatecas,125.92,95.72,36.75,0.38,10/05/2021
+76,El Peaje,San Luis Potosí,9.05,6.69,0.17,0.03,10/05/2021
+77,San Antonio,Michoacán,29.79,28.68,3.2,0.11,10/05/2021
+78,Bacurato,Sinaloa,2687.07,1618.75,178.96,0.11,10/05/2021
+79,Huapango,Estado de México,126.5,121.3,2.75,0.02,10/05/2021
+80,Valencia,Jalisco,22.63,21.73,6.02,0.28,10/05/2021
+81,La Begoña,Guanajuato,241.41,125.12,24.84,0.2,10/05/2021
+82,Punta de Agua,Sonora,29.69,16.16,0.21,0.01,10/05/2021
+83,La Gavia,Estado de México,36.3,20.23,10.69,0.53,10/05/2021
+84,Santa Teresa,Zacatecas,13.94,9.17,5.51,0.6,10/05/2021
+85,El Salto o Elota,Sinaloa,815.59,403.9,62.25,0.15,10/05/2021
+86,Agua Puerca,Durango,56.06,30.76,12.93,0.42,10/05/2021
+87,Puente Calderón,Jalisco,100,80,10.89,0.14,10/05/2021
+88,El Sabinal o El Cajón,Sinaloa,469.2,294.58,52.66,0.18,10/05/2021
+89,La Pólvora,Jalisco,56.15,51.68,15.6,0.3,10/05/2021
+90,Tayahua,Zacatecas,50.38,31.6,13.8,0.44,10/05/2021
+91,El Molinito,Sonora,222.47,121.2,6.34,0.05,10/05/2021
+92,La Vega,Jalisco,80,44.04,15.85,0.36,10/05/2021
+93,Falcón,Tamaulipas,1607.96,1351.63,36.62,0.03,10/05/2021
+94,La Amistad,Coahuila,2707.44,1769.66,81.36,0.05,10/05/2021
+95,Jalpan,Querétaro,11.2,8,4.36,0.55,10/05/2021
+96,Jaripo,Michoacán,9.27,6.03,1.29,0.21,10/05/2021
+97,La Peña,Hidalgo,43.32,39.99,17.51,0.44,10/05/2021
+98,Der. Jocoqui,Aguascalientes,11.4,10.98,10.31,0.94,10/05/2021
+99,El Sabino,Sinaloa,685.11,519.28,91.91,0.18,10/05/2021
+100,San Bernabé,Estado de México,52.51,35.31,4.07,0.12,10/05/2021
+101,Cerro Prieto,Nuevo León,393,300,49.58,0.17,10/05/2021
+102,El Comedero,Sinaloa,3966.17,2580.19,263.22,0.1,10/05/2021
+103,La Villita,Zacatecas,11.17,9.02,4.26,0.47,10/05/2021
+104,Vinoramas,Sinaloa,102,54.68,14.35,0.26,10/05/2021
+105,El Portillo II o Cuxtepeques,Chiapas,116.11,68.15,62.57,0.92,10/05/2021
+106,Lago Toronto,Chihuahua,3453.58,2893.57,694.23,0.24,10/05/2021
+107,La Calera,Guerrero,34.19,9.39,5.99,0.64,10/05/2021
+108,La Cangrejera,Veracruz,31.6,28.54,3.32,0.12,10/05/2021
+109,La Codorniz,Aguascalientes,6.53,5.37,2.73,0.51,10/05/2021
+110,La Colonia,Jalisco,6.5,5.78,3.34,0.58,10/05/2021
+111,La Concepción,Estado de México,12.6,12.11,4.26,0.35,10/05/2021
+112,La Esperanza,Hidalgo,4.2,3.92,3.51,0.89,10/05/2021
+113,La Fragua,Coahuila,85.38,47.3,13.49,0.29,10/05/2021
+114,La Golondrina,Guanajuato,5.97,4.67,1.46,0.31,10/05/2021
+115,Tejocotal,Hidalgo,49.23,40.64,7.74,0.19,10/05/2021
+116,Divino Redentor,Querétaro,14.41,9.31,0,0,10/05/2021
+117,La Muñeca,San Luis Potosí,31,24.14,6.2,0.26,10/05/2021
+118,La Purísima,Guanajuato,181.93,110,56.69,0.52,10/05/2021
+119,La Red,Jalisco,18.3,14.25,5.57,0.39,10/05/2021
+120,Garabatillos,Jalisco,21.5,16,4.86,0.3,10/05/2021
+121,La Soledad,Guanajuato,2.37,1.86,1.52,0.82,10/05/2021
+122,La Venta,Querétaro,3.78,2.48,0,0,10/05/2021
+123,Chapala,Jalisco,9279.71,8126.41,3968.8,0.49,10/05/2021
+124,Tecoman,Colima,41.3,38.34,15.6,0.41,10/05/2021
+125,Laguna de Tuxpan,Guerrero,19.5,17.65,13.47,0.76,10/05/2021
+126,B. de Tavamatacheo,Guanajuato,325.2,278.79,34.38,0.12,10/05/2021
+127,Laguna del Fresno,Michoacán,13.13,10.3,0.54,0.05,10/05/2021
+128,Las Auras B.C.,Baja California,5.1,5.01,2.46,0.49,10/05/2021
+129,Las Lajas,Chihuahua,106.55,83.27,8.54,0.1,10/05/2021
+130,Las Vírgenes,Chihuahua,477.62,355.29,61.89,0.17,10/05/2021
+131,San Lorenzo,Tamaulipas,255.65,230.78,60.08,0.26,10/05/2021
+132,Guamuchil,Sinaloa,264.95,80.08,12.78,0.16,10/05/2021
+133,Moraleños,Zacatecas,26.07,20.93,9.63,0.46,10/05/2021
+134,Naranjos,Durango,27.39,20.93,20.73,0.99,10/05/2021
+135,Los Olivos,Michoacán,16.27,10.26,2.82,0.28,10/05/2021
+136,Omiltepec,Hidalgo,29.26,24.03,4.1,0.17,10/05/2021
+137,Tres Mezquites,Michoacán,17.1,14.59,0,0,10/05/2021
+138,El Palmito,Durango,4278.54,2770.51,1387.87,0.5,10/05/2021
+139,La Angostura,Sonora,1116.46,703.38,425.72,0.61,10/05/2021
+140,Madín,Estado de México,17.96,7.13,7.22,1.01,10/05/2021
+141,La Cienega,Michoacán,27.25,18.51,3.94,0.21,10/05/2021
+142,Lobatos,Zacatecas,9.44,6.91,5.44,0.79,10/05/2021
+143,Valsequillo o Balcón del Diablo,Puebla,391.49,300.65,177.56,0.59,10/05/2021
+144,San Antonio de Aceves,Guanajuato,23.95,20.08,7.19,0.36,10/05/2021
+145,El Azucar,Tamaulipas,2208.66,781.7,650.51,0.83,10/05/2021
+146,Media Luna,Aguascalientes,21.2,15,2.41,0.16,10/05/2021
+147,El Rosario,Michoacán,249.84,194.45,121.07,0.62,10/05/2021
+148,Excamé,Zacatecas,70.92,50.55,19.85,0.39,10/05/2021
+149,El Mahone,Sinaloa,4171.27,3096.63,215.05,0.07,10/05/2021
+150,Cerro de Oro,Oaxaca,3547.16,2599.51,1353.77,0.52,10/05/2021
+151,Necaxa,Puebla,39.28,29.06,11.62,0.4,10/05/2021
+152,Nexapa,Puebla,15.31,12.5,4.06,0.32,10/05/2021
+153,Palomas,Zacatecas,8.76,4.62,3.01,0.65,10/05/2021
+154,Chicayán,Veracruz,572.32,220,97.98,0.45,10/05/2021
+155,Pedro José Méndez,Tamaulipas,38.36,31.26,7.91,0.25,10/05/2021
+156,Peña del Águila,Durango,54.9,27.95,18.71,0.67,10/05/2021
+157,Peñuelitas,Guanajuato,30.17,17.46,0.83,0.05,10/05/2021
+158,Pico del Águila,Chihuahua,59.84,48.28,19.06,0.39,10/05/2021
+159,Piedras Azules Chih.,Chihuahua,13.19,8.71,4.8,0.55,10/05/2021
+160,Calles,Aguascalientes,407.44,358.12,105.84,0.3,10/05/2021
+161,El Marqués,Oaxaca,1726.75,720.32,308.41,0.43,10/05/2021
+162,El Tunal,Durango,94.62,78.06,61.3,0.79,10/05/2021
+163,Pucuato,Michoacán,11.53,9.49,1.52,0.16,10/05/2021
+164,Pátzcuaro Mich.,Michoacán,1135.57,646.58,295.07,0.46,10/05/2021
+165,Trigomil,Jalisco,324,250,150.9,0.6,10/05/2021
+166,Boca del Tesorero,Zacatecas,36.74,26.22,15.05,0.57,10/05/2021
+167,Real Viejo o El Sombrero,Tamaulipas,105.99,54.78,13.73,0.25,10/05/2021
+168,Requena,Hidalgo,61.52,40.98,14.99,0.37,10/05/2021
+169,El Guineo,Guerrero,259.5,126.69,79.05,0.62,10/05/2021
+170,La Boca,Nuevo León,42.66,39.49,28.09,0.71,10/05/2021
+171,Sabaneta,Michoacán,5.88,5.04,1.88,0.37,10/05/2021
+172,Salinillas,Nuevo León,19.01,19.01,6.88,0.36,10/05/2021
+173,Tepetitlán,Estado de México,81.03,59.97,34.37,0.57,10/05/2021
+174,Federalismo Mexicano,Durango,377.34,245.43,52.55,0.21,10/05/2021
+175,El Tepozán,Querétaro,58.03,47.81,0.09,0,10/05/2021
+176,Atlanga,Tlaxcala,47.97,42.63,24.65,0.58,10/05/2021
+177,San José,San Luis Potosí,5.66,5.22,2.95,0.56,10/05/2021
+178,La Laguna,Michoacán,71.69,60.55,31.73,0.52,10/05/2021
+179,San Miguel,Coahuila,22.19,21.17,12.99,0.61,10/05/2021
+180,San Rafael,Nayarit,35.59,26.18,23.19,0.89,10/05/2021
+181,Sanalona,Sinaloa,987.52,687.99,68.78,0.1,10/05/2021
+182,Tanque Santa Elena,Durango,18.77,15.08,11.35,0.75,10/05/2021
+183,Santa Rosa,Zacatecas,14.04,10.48,6.97,0.67,10/05/2021
+184,Santiago Bayacora,Durango,169.87,130.05,110.85,0.85,10/05/2021
+185,Santiago,Zacatecas,11.42,6.2,2.62,0.42,10/05/2021
+186,Guadalupe,Estado de México,64.08,56.91,23.51,0.41,10/05/2021
+187,Trojes,Colima,285.74,203.39,100.67,0.49,10/05/2021
+188,Solís,Guanajuato,1214.14,800,507.79,0.63,10/05/2021
+189,Tacotán,Jalisco,169,149.24,85.25,0.57,10/05/2021
+190,Sistema lagunario Chairel,Tamaulipas,854,676,254,0.38,10/05/2021
+191,Taxhimay,Hidalgo,47.39,39.91,10.63,0.27,10/05/2021
+192,Tenango,Puebla,46.58,28.48,2.71,0.1,10/05/2021
+193,Boquilla de Zaragoza,Jalisco,13.85,10.49,2.96,0.28,10/05/2021
+194,Tepuxtepec,Michoacán,537.53,450,311.37,0.69,10/05/2021
+195,Chincua,Michoacán,17.33,14.97,0.37,0.02,10/05/2021
+196,Urepetiro,Michoacán,10.92,8.28,1.38,0.17,10/05/2021
+197,Ojo Caliente,San Luis Potosí,22.4,9.51,0.15,0.02,10/05/2021
+198,Tepecoacuilco,Guerrero,51.73,31.01,5.96,0.19,10/05/2021
+199,Valle de Bravo,Estado de México,449.42,394.39,195.59,0.5,10/05/2021
+200,Don Martín,Coahuila,1322.37,874.1,159.62,0.18,10/05/2021
+201,Las Golondrinas,Hidalgo,19.69,17.8,2.81,0.16,10/05/2021
+202,Valle de Juárez,Jalisco,18.12,14.44,10.32,0.71,10/05/2021
+203,Palos Altos,Guerrero,300,249.49,109.01,0.44,10/05/2021
+204,Las Adjuntas,Tamaulipas,5498.23,3910.69,1499.68,0.38,10/05/2021
+205,Villa Hidalgo,Durango,39.56,23.08,6.58,0.29,10/05/2021
+206,Villa Victoria,Estado de México,249.94,185.72,53.31,0.29,10/05/2021
+207,San Marcos Arteaga,Oaxaca,57.26,47.23,36.74,0.78,10/05/2021
+208,La Peña,Michoacán,47.49,36.29,13.12,0.36,10/05/2021
+209,El Oviachic,Sonora,4478.22,3023.14,883.62,0.29,10/05/2021
+210,Ñado,Estado de México,18.5,16.8,3.3,0.2,10/05/2021
