@@ -1,7 +1,7 @@
 -- Importing the tablefunc module (PostgreSQL 9.1+)
 CREATE EXTENSION IF NOT EXISTS tablefunc;
 ----------------- 
-Creating table with id, dam name, location, capcity (name and namo), current storage, fill percentage and log date.
+-- Creating table with id, dam name, location, capcity (name and namo), current storage, fill percentage and log date.
 ---------------
 CREATE TABLE dam_levels(
 	dam_id VARCHAR(3) NOT NULL,
