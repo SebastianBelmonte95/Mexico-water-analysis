@@ -12,7 +12,7 @@ conn.commit()
 
 # Iterating all files for each folder in the current working directory
 
-for folder, sub_folders, files in os.walk(os.getcwd() + "\\Dam levels"):
+for folder, sub_folders, files in os.walk(os.getcwd() + "\\Daily dam levels"):
     for file in files:
         file_path = folder + '\\' + file
         with open(file_path, 'r', encoding="utf-8") as f:
